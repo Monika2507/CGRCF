@@ -1,6 +1,6 @@
 % This function implements the ASRCF tracker.
 
-function [state, location] = Proposed_optimized(state, im, params)
+function [state, location] = CGRCF_optimized(state, im, params)
 %   Setting parameters for local use.
 see_q = [];
 state.search_area_scale   = params.search_area_scale;
