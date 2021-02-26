@@ -1,4 +1,4 @@
-function [state, location, params] = tracker_Proposed_initialize(im, region, params)
+function [state, location, params] = tracker_CGRCF_initialize(im, region, params)
 
   if size(im,3)==3
     gray = double(rgb2gray(im));
