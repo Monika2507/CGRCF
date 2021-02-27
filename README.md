@@ -1,7 +1,11 @@
 # CGRCF
 - Channel Graph Regularized Correlation Filters for Visual Object Tracking
 
-## Installation
+## Prerequisite
+- MATLAB (We used MATLAB2020a)
+- Matconvnet
+
+### Installation
 1. Clone the GIT repository:
 ```
  $ git clone https://github.com/Monika2507/CGRCF.git
