@@ -21,5 +21,10 @@
 ```
    |>> CGRCF_test.m
 ```
+5. Start Matlab and navigate to the repository.  
+   Cite:
+```
+   |>> Jain, Monika, Arjun Tyagi, A. V. Subramanyam, Simon Denman, Sridha Sridharan, and Clinton Fookes. "Channel Graph Regularized Correlation Filters for Visual Object Tracking." IEEE Transactions on Circuits and Systems for Video Technology (2021).
+```
 
 --Contact Monikaj@iiitd.ac.in for any queries--
